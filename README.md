@@ -1,2 +1,2 @@
-# Tourism-Experience-Analytics-By-The-Uses-of-Machine-Learning
+# Tourism-Experience-Analytics-Machine-Learning
 Classification, Prediction, and Recommendation System!
